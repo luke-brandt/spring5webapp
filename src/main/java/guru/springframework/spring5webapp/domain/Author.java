@@ -1,3 +1,4 @@
+//This is a test
 package guru.springframework.spring5webapp.domain;
 
 import javax.persistence.*;
